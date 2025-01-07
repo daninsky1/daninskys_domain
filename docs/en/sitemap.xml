@@ -2,44 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/how-to-properly-dual-boot/</loc>
+    <loc>https://daninsky1.github.io/daninskys_domain/en/a-solution-for-windows-and-linux-time-differences/</loc>
+    <lastmod>2025-01-06T02:44:05-03:00</lastmod>
+  </url><url>
+    <loc>https://daninsky1.github.io/daninskys_domain/en/tags/dual-boot/</loc>
+    <lastmod>2025-01-06T02:44:05-03:00</lastmod>
+  </url><url>
+    <loc>https://daninsky1.github.io/daninskys_domain/en/tags/linux/</loc>
+    <lastmod>2025-01-06T02:44:05-03:00</lastmod>
+  </url><url>
+    <loc>https://daninsky1.github.io/daninskys_domain/en/tags/</loc>
+    <lastmod>2025-01-06T02:44:05-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://daninsky1.github.io/daninskys_domain/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://daninsky1.github.io/daninskys_domain/en/tags/"
+                />
+  </url><url>
+    <loc>https://daninsky1.github.io/daninskys_domain/en/tags/windows/</loc>
+    <lastmod>2025-01-06T02:44:05-03:00</lastmod>
+  </url><url>
+    <loc>https://daninsky1.github.io/daninskys_domain/en/how-to-properly-dual-boot/</loc>
     <lastmod>2025-01-06T01:13:15-03:00</lastmod>
   </url><url>
-    <loc>/en/</loc>
+    <loc>https://daninsky1.github.io/daninskys_domain/en/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt/"
+                href="https://daninsky1.github.io/daninskys_domain/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/en/"
+                href="https://daninsky1.github.io/daninskys_domain/en/"
                 />
   </url><url>
-    <loc>/en/categories/</loc>
+    <loc>https://daninsky1.github.io/daninskys_domain/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt/categories/"
+                href="https://daninsky1.github.io/daninskys_domain/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/en/categories/"
-                />
-  </url><url>
-    <loc>/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/en/tags/"
+                href="https://daninsky1.github.io/daninskys_domain/en/categories/"
                 />
   </url>
 </urlset>

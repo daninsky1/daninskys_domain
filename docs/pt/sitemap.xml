@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/pt/a-bolha-de-pre%C3%A7os-criada-pela-propriedade-intelectual/</loc>
+    <loc>https://daninsky1.github.io/daninskys_domain/pt/a-bolha-de-pre%C3%A7os-criada-pela-propriedade-intelectual/</loc>
     <lastmod>2025-01-06T01:13:15-03:00</lastmod>
   </url><url>
-    <loc>/pt/</loc>
-    <lastmod>2025-01-06T01:13:15-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/pt/"
-                />
-  </url><url>
-    <loc>/pt/tags/libertarianismo/</loc>
-    <lastmod>2025-01-06T01:13:15-03:00</lastmod>
-  </url><url>
-    <loc>/pt/tags/politica/</loc>
-    <lastmod>2025-01-06T01:13:15-03:00</lastmod>
-  </url><url>
-    <loc>/pt/tags/</loc>
+    <loc>https://daninsky1.github.io/daninskys_domain/pt/</loc>
     <lastmod>2025-01-06T01:13:15-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/en/tags/"
+                href="https://daninsky1.github.io/daninskys_domain/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt/tags/"
+                href="https://daninsky1.github.io/daninskys_domain/pt/"
                 />
   </url><url>
-    <loc>/pt/categories/</loc>
+    <loc>https://daninsky1.github.io/daninskys_domain/pt/tags/libertarianismo/</loc>
+    <lastmod>2025-01-06T01:13:15-03:00</lastmod>
+  </url><url>
+    <loc>https://daninsky1.github.io/daninskys_domain/pt/tags/politica/</loc>
+    <lastmod>2025-01-06T01:13:15-03:00</lastmod>
+  </url><url>
+    <loc>https://daninsky1.github.io/daninskys_domain/pt/tags/</loc>
+    <lastmod>2025-01-06T01:13:15-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/en/categories/"
+                href="https://daninsky1.github.io/daninskys_domain/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt/categories/"
+                href="https://daninsky1.github.io/daninskys_domain/pt/tags/"
+                />
+  </url><url>
+    <loc>https://daninsky1.github.io/daninskys_domain/pt/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://daninsky1.github.io/daninskys_domain/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://daninsky1.github.io/daninskys_domain/pt/categories/"
                 />
   </url>
 </urlset>

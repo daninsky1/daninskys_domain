@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://daninsky1.github.io/daninskys_domain/'
 theme = 'bones'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
