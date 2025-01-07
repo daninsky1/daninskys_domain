@@ -1,0 +1,17 @@
+baseURL = ''
+theme = 'bones'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+publishDir = 'docs'
+
+[languages]
+    [languages.en]
+        languageCode = 'en-us'
+        languageName = 'English'
+        weight = 1
+        title = "Daninsky's Domain"
+    [languages.pt]
+        languageCode = 'pt-br'
+        languageName = 'Português Brasileiro'
+        weight = 2
+        title = "Domínio do Daninsky"

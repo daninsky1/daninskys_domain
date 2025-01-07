@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Daninsky&#39;s Domain</title>
+    <link>/en/</link>
+    <description>Recent content in Home on Daninsky&#39;s Domain</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jan 2025 01:13:15 -0300</lastBuildDate>
+    <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Properly Dual Boot</title>
+      <link>/en/how-to-properly-dual-boot/</link>
+      <pubDate>Mon, 06 Jan 2025 01:13:15 -0300</pubDate>
+      <guid>/en/how-to-properly-dual-boot/</guid>
+      <description>&lt;p&gt;Teste&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

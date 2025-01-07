@@ -1,0 +1,3 @@
+[submodule "themes/bones"]
+	path = themes/bones
+	url = git@github.com:daninsky1/bones.git
