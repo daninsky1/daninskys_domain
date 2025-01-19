@@ -2,25 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Daninsky&#39;s Domain</title>
-    <link>https://daninsky1.github.io/daninskys_domain/en/</link>
+    <link>http://localhost:1313/daninskys_domain/en/</link>
     <description>Recent content in Home on Daninsky&#39;s Domain</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jan 2025 02:44:05 -0300</lastBuildDate>
-    <atom:link href="https://daninsky1.github.io/daninskys_domain/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/daninskys_domain/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Solution for Windows and Linux Clock Differences</title>
-      <link>https://daninsky1.github.io/daninskys_domain/en/a-solution-for-windows-and-linux-time-differences/</link>
+      <link>http://localhost:1313/daninskys_domain/en/a-solution-for-windows-and-linux-time-differences/</link>
       <pubDate>Mon, 06 Jan 2025 02:44:05 -0300</pubDate>
-      <guid>https://daninsky1.github.io/daninskys_domain/en/a-solution-for-windows-and-linux-time-differences/</guid>
+      <guid>http://localhost:1313/daninskys_domain/en/a-solution-for-windows-and-linux-time-differences/</guid>
       <description></description>
     </item>
     <item>
-      <title>How to Properly Dual Boot</title>
-      <link>https://daninsky1.github.io/daninskys_domain/en/how-to-properly-dual-boot/</link>
+      <title>How to Properly Dual Boot Windows and Linux</title>
+      <link>http://localhost:1313/daninskys_domain/en/how-to-properly-dual-boot/</link>
       <pubDate>Mon, 06 Jan 2025 01:13:15 -0300</pubDate>
-      <guid>https://daninsky1.github.io/daninskys_domain/en/how-to-properly-dual-boot/</guid>
-      <description>&lt;p&gt;Teste&lt;/p&gt;</description>
+      <guid>http://localhost:1313/daninskys_domain/en/how-to-properly-dual-boot/</guid>
+      <description>&lt;p&gt;Windows monopoly your hardware, so it doesn&amp;rsquo;t facilitates the user to use the system in a multi operational systems.&lt;br&gt;&#xA;So Windows doesn&amp;rsquo;t give a damn to break other operational systems boot.&lt;br&gt;&#xA;A solution for many year was the GRUB bootloader it can easily detect Windows and Linux Systems, however GRUB is not a solid solution, unfortunately many GRUB default configuration has a anoying behavior:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Timeout: a delay before boot to the default system, grub has no good way to change this behavior making really anoying booting your system, you can configure the timeout with the minimum of 1 second, yes, 1 second delay, and that&amp;rsquo;s solve another problem, when you don&amp;rsquo;t want to boot to your default system your got time to press any button and select another system.&lt;/li&gt;&#xA;&lt;li&gt;No easy way to change the default boot systems, every GRUB update happily overrite your configuration and your default system boot entry.&lt;/li&gt;&#xA;&lt;li&gt;Ugly: GRUB GUI is outdated.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Well, now the modern systems use UEFI and it has a bootloader stardard removing the need of a intermediate, GRUB.&lt;br&gt;&#xA;If possible use the EFI stub standard to configure your UEFI boot entry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/daninskys_domain/en/teste1/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/daninskys_domain/en/teste1/post1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/daninskys_domain/en/teste1/post2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/daninskys_domain/en/teste1/post2/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

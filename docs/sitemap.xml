@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://daninsky1.github.io/daninskys_domain/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/daninskys_domain/en/sitemap.xml</loc>
     
       <lastmod>2025-01-06T02:44:05-03:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://daninsky1.github.io/daninskys_domain/pt/sitemap.xml</loc>
+    <loc>http://localhost:1313/daninskys_domain/pt/sitemap.xml</loc>
     
       <lastmod>2025-01-06T01:13:15-03:00</lastmod>
     

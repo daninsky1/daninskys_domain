@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Politica on Domínio do Daninsky</title>
-    <link>https://daninsky1.github.io/daninskys_domain/pt/tags/politica/</link>
+    <link>http://localhost:1313/daninskys_domain/pt/tags/politica/</link>
     <description>Recent content in Politica on Domínio do Daninsky</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 06 Jan 2025 01:13:15 -0300</lastBuildDate>
-    <atom:link href="https://daninsky1.github.io/daninskys_domain/pt/tags/politica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/daninskys_domain/pt/tags/politica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A bolha de Preços Criada Pela Propriedade Intelectual</title>
-      <link>https://daninsky1.github.io/daninskys_domain/pt/a-bolha-de-pre%C3%A7os-criada-pela-propriedade-intelectual/</link>
+      <link>http://localhost:1313/daninskys_domain/pt/a-bolha-de-pre%C3%A7os-criada-pela-propriedade-intelectual/</link>
       <pubDate>Mon, 06 Jan 2025 01:13:15 -0300</pubDate>
-      <guid>https://daninsky1.github.io/daninskys_domain/pt/a-bolha-de-pre%C3%A7os-criada-pela-propriedade-intelectual/</guid>
+      <guid>http://localhost:1313/daninskys_domain/pt/a-bolha-de-pre%C3%A7os-criada-pela-propriedade-intelectual/</guid>
       <description></description>
     </item>
   </channel>

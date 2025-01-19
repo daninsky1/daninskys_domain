@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dual-Boot on Daninsky&#39;s Domain</title>
-    <link>https://daninsky1.github.io/daninskys_domain/en/tags/dual-boot/</link>
+    <link>http://localhost:1313/daninskys_domain/en/tags/dual-boot/</link>
     <description>Recent content in Dual-Boot on Daninsky&#39;s Domain</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jan 2025 02:44:05 -0300</lastBuildDate>
-    <atom:link href="https://daninsky1.github.io/daninskys_domain/en/tags/dual-boot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/daninskys_domain/en/tags/dual-boot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Solution for Windows and Linux Clock Differences</title>
-      <link>https://daninsky1.github.io/daninskys_domain/en/a-solution-for-windows-and-linux-time-differences/</link>
+      <link>http://localhost:1313/daninskys_domain/en/a-solution-for-windows-and-linux-time-differences/</link>
       <pubDate>Mon, 06 Jan 2025 02:44:05 -0300</pubDate>
-      <guid>https://daninsky1.github.io/daninskys_domain/en/a-solution-for-windows-and-linux-time-differences/</guid>
+      <guid>http://localhost:1313/daninskys_domain/en/a-solution-for-windows-and-linux-time-differences/</guid>
       <description></description>
     </item>
   </channel>
